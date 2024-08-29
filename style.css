@@ -145,7 +145,8 @@ p {
 }
 
 .kartu-founder img {
-    width: 80%;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
 }
 
@@ -251,10 +252,6 @@ h3 {
     }
 
     .kartu-partner {
-        width: 50%;
-    }
-
-    .rounded-image {
         width: 50%;
     }
 }
