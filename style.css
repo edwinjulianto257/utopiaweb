@@ -253,4 +253,12 @@ h3 {
     .kartu-partner {
         width: 50%;
     }
+
+    .rounded-image {
+        width : 100px;
+        height: 100px;
+        border-radius: 50%;
+        overflow: hidden;
+        object-position: center;
+    }
 }
